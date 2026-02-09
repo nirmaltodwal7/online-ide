@@ -284,6 +284,3 @@ npm run preview
 ### Register
 ![Register](Images/Register.png)
 
-## License
-
-You can use this under the MIT License. See [LICENSE](LICENSE) for more details.
