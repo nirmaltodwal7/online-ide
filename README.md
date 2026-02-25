@@ -1,4 +1,4 @@
-An online IDE with secure login functionality that allows users to run co
+An online IDE with secure login functionality that allows users to run code, generate new code, refactor existing code, and share it with anyone.
 
 ![Homepage](Images/Homepage.png)
 
