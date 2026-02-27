@@ -1,5 +1,5 @@
 An online IDE with secure login functionality that allows users to run code, generate new code, refactor existing code, and share it with anyone.
-
+...
 ![Homepage](Images/Homepage.png)
 
 ![Lines of code](https://sloc.xyz/github/gladw-in/online-ide)
